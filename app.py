@@ -163,3 +163,10 @@ else:
 # Footer
 st.markdown("---")
 st.markdown("ℹ️ Remember, BMI is just one indicator of health. Always consult with a healthcare professional for personalized advice.")
+st.markdown("---")
+st.markdown("""
+<div style="text-align: center;">
+    <small>Built with ❤️ by Dua Fatima</small><br>
+    <small>Copyright © 2025 - All Rights Reserved</small>
+</div>
+""", unsafe_allow_html=True)
